@@ -42,7 +42,7 @@ const About = () => {
               Follow me
             </button>
 
-            <hr className='opacity-30 w-[50px] hidden sm:block' />
+            <hr className='opacity-30 w-[50px]' />
             <ul className='gap-4 hidden sm:flex'>
               <Link
                 href={'https://instagram.com/akshay__0026_'}
